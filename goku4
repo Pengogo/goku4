@@ -1,15 +1,15 @@
 {
-  "title": "Metal You Madness",
-  "description": "The rampage of Dr. Frankenstein's latest creation",
+  "title": "Sunburn Showdown: Hawthorne",
+  "description": "A dark and brooding beast enters a Pokemon Tournament",
   "artist": "Pengogo (and others)",
   "author": "Pengogo (and others)",
-  "cover": "https://cdn.imgchest.com/files/61b2d5b72104.png",
+  "cover": "https://cdn.imgchest.com/files/aa972938007a.png",
   "chapters": {
     "1": {
       "title": "Introduction",
       "volume": "1",
       "groups": {
-        "Pengogo": "/proxy/api/imgchest/chapter/6eyrneede7p/"
+        "Pengogo": "/proxy/api/imgur/chapter/tekKVzA/"
       },
       "last_updated": "1616368746"
     },
@@ -17,7 +17,7 @@
       "title": "Round 1: Drill Man",
       "volume": "2",
       "groups": {
-        "Pengogo": "/proxy/api/imgchest/chapter/xny89znp54b/"
+        "Pengogo": "/proxy/api/imgchest/chapter/dl7p8nwv6yo/"
       },
       "last_updated": "1616368746"
     },
@@ -25,7 +25,7 @@
       "title": "Round 2: Slowcrastinator",
       "volume": "3",
       "groups": {
-        "Pengogo": "/proxy/api/imgchest/chapter/vj4j6b5j9y8/"
+        "Pengogo": "/proxy/api/imgchest/chapter/lqyedvrzx7d/"
       },
       "last_updated": "1616368746"
     },
@@ -33,31 +33,31 @@
       "title": "Round 3: Business Squid",
       "volume": "4",
       "groups": {
-        "Pengogo": "/proxy/api/imgchest/chapter/vj4j5nv2e78/"
+        "Pengogo": "/proxy/api/imgchest/chapter/pg73dxx5jyr/"
       },
       "last_updated": "1616368746"
-    }, 
+    },
  "5": {
       "title": "Round 4: Tomo & Stylo",
       "volume": "5",
       "groups": {
-        "Pengogo": "/proxy/api/imgur/chapter/n87w28bvb7x/"
+        "Oystersauce": "/proxy/api/imgchest/chapter/vj4jmxzdx48/"
       },
       "last_updated": "1616368746"
-    }, 
+    },
  "6": {
       "title": "Round 1: Drill Man (L)",
       "volume": "6",
       "groups": {
-        "Revil": "/proxy/api/imgur/chapter/md7ovjrd9yp/"
+        "Pengogo": "/proxy/api/imgchest/chapter/dl7pnlrl6yo/"
       },
       "last_updated": "1616368746"
-    }, 
-"7": {
+    },
+ "7": {
       "title": "Round 2: Slowcrastinator (L)",
       "volume": "7",
       "groups": {
-        "Phroge": "/proxy/api/imgur/chapter/n87wjo2bq4x/"
+        "Bread": "/proxy/api/imgur/chapter/Yf5Frij/"
       },
       "last_updated": "1616368746"
     },
@@ -65,7 +65,7 @@
       "title": "Round 3: Business Squid (L)",
       "volume": "8",
       "groups": {
-        "Pengogo": "/proxy/api/imgur/chapter/o24adoaje4l/"
+        "Mindless Corp": "/proxy/api/imgchest/chapter/ne7b6ejpjy5/"
       },
       "last_updated": "1616368746"
     },
@@ -73,7 +73,7 @@
       "title": "Round 4: Tomo & Stylo (L)",
       "volume": "9",
       "groups": {
-        "Pengogo": "/proxy/api/imgur/chapter/md7o36zbd7p/"
+        "Tort": "/proxy/api/imgur/chapter/przjJTg/"
       },
       "last_updated": "1616368746"
     },
