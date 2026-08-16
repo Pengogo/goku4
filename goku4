@@ -61,43 +61,67 @@
       },
       "last_updated": "1616368746"
     },
- "8": {
-      "title": "Round 1: Drill Man (L)",
+"8": {
+      "title": "Round 6: Sable and Via (W)",
       "volume": "8",
+      "groups": {
+        "Pengogo": "/proxy/api/imgchest/chapter/5xy2v3nlz7l/"
+      },
+      "last_updated": "1616368746"
+    },
+ "9": {
+      "title": "Round 1: Drill Man (L)",
+      "volume": "9",
       "groups": {
         "Revil": "/proxy/api/imgchest/chapter/md7ovjrd9yp/"
       },
       "last_updated": "1616368746"
     }, 
-"9": {
+"10": {
       "title": "Round 2: Slowcrastinator (L)",
-      "volume": "9",
+      "volume": "10",
       "groups": {
         "Phroge": "/proxy/api/imgchest/chapter/n87wjo2bq4x/"
       },
       "last_updated": "1616368746"
     },
- "10": {
+ "11": {
       "title": "Round 3: Business Squid (L)",
-      "volume": "10",
+      "volume": "11",
       "groups": {
         "Camcato": "/proxy/api/imgchest/chapter/o24adoaje4l/"
       },
       "last_updated": "1616368746"
     },
- "11": {
+ "12": {
       "title": "Round 4: Tomo & Stylo (L)",
-      "volume": "11",
+      "volume": "12",
       "groups": {
         "Camcato and Ophelia": "/proxy/api/imgchest/chapter/md7o36zbd7p/"
       },
       "last_updated": "1616368746"
     },
- "12": {
+ "13": {
       "title": "Round 5: Will, Ferryman of the Drowned (L)",
-      "volume": "12",
+      "volume": "13",
       "groups": {
-        "Pengogo": "/proxy/api/imgchest/chapter/ljyqbmp8ky2/"
+        "Pengogo": "/proxy/api/imgchest/chapter/md7o36zbd7p/"
+      },
+      "last_updated": "1616368746"
+    },
+ "14": {
+      "title": "Round 6: Sable (L)",
+      "volume": "14",
+      "groups": {
+        "L-Mop": "/proxy/api/imgchest/chapter/ne7bz2don75/"
+      },
+      "last_updated": "1616368746"
+    },
+ "15": {
+      "title": "Round 6: Via (L)",
+      "volume": "15",
+      "groups": {
+        "The Rebel Spy": "/proxy/api/imgchest/chapter/ne7bz2don75/"
       },
       "last_updated": "1616368746"
     }
